@@ -1,4 +1,7 @@
 # Exploratory_Data_Analysis_Bot
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agvergara/Exploratory_Data_Analysis_Bot/blob/master/cunhaobot_stats.ipynb)
+
 Data Analysis for a Bot in Telegram
 
 (This is a Spanish bot in Telegram, you can summon it with @cunhaobot)
@@ -36,4 +39,4 @@ At the time of this commit, there are only:
 * Search query: Searches the query and outputs the stats (if verbose) of every user that used that specific query.
 
 
-Aaaand for now that's all folks!
+Aaaand for now that's all folks
